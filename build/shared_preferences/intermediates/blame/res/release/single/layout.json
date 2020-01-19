@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Indra\\Pictures\\flutter_mysqll\\build\\shared_preferences\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Indra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8a3d5b697d7d20ad21372eeb93e7dfd6\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Indra\\Pictures\\flutter_mysqll\\build\\shared_preferences\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Indra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8a3d5b697d7d20ad21372eeb93e7dfd6\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Indra\\Pictures\\flutter_mysqll\\build\\shared_preferences\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Indra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8a3d5b697d7d20ad21372eeb93e7dfd6\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Indra\\Pictures\\flutter_mysqll\\build\\shared_preferences\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Indra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8a3d5b697d7d20ad21372eeb93e7dfd6\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Indra\\Pictures\\flutter_mysqll\\build\\shared_preferences\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Indra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8a3d5b697d7d20ad21372eeb93e7dfd6\\res\\layout\\notification_action.xml"
+    }
+]

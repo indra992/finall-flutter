@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:shared_preferences] C:\Users\Indra\Pictures\flutter_mysqll\build\shared_preferences\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] C:\Users\Indra\Pictures\flutter_mysqll\build\shared_preferences_web\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_macos] C:\Users\Indra\Pictures\flutter_mysqll\build\shared_preferences_macos\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a7bc031dcc7685abd3c6e24e25d7fa4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1cf4c7fbec6b2cef897e6b61eba838fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1abd9be1d5164eb8c62b5f038716fdc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\74556be9c9f12c37dd526611419906c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\13ecc0b22753c15b8d3f063fdb888bab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bc2600f9910a1daae61b46c9bc1e7b5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a74df142e9e7320abb5c1cc83b663c90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7d627c9b884c0ca22ff24ec64514510b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1676126878530f43685fcf6c00af8606\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\970a91c624eb1840d76114e022bb84db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cbda929ebad8b38371b6f0f183e37999\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8a3d5b697d7d20ad21372eeb93e7dfd6\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f6a00ebf9c86e266029beb2801d350ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0610e195567f0f47743466137cfd5e31\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cdac0bb1ae062f43be03d067af30af3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6eba88270726444a4d0c413196b49902\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b2a4ef5bc34e56dcb6e25c46ab983062\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0fab130a2203ed1b10529de67503a820\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\419063faed253cfba2e24538667d93c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\efb60cc5a7ca5a88360ed78e3c828208\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\40bce1ec67422d9e30cda1c2f7e86c21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\285f6192fff9916194513d890e609a92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\428a3ebbad6fdec4e325368f5b60fb14\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:10:5-33:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8a3d5b697d7d20ad21372eeb93e7dfd6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8a3d5b697d7d20ad21372eeb93e7dfd6\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0fab130a2203ed1b10529de67503a820\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0fab130a2203ed1b10529de67503a820\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8a3d5b697d7d20ad21372eeb93e7dfd6\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:12:9-38
+	android:icon
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:13:9-43
+	android:name
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:11:9-57
+activity#com.example.flutter_mysql.MainActivity
+ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:14:9-32:20
+	android:launchMode
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:20:13-55
+	android:configChanges
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:18:13-144
+	android:theme
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:15:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:25:13-27:40
+	android:value
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:27:17-37
+	android:name
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:26:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] C:\Users\Indra\Pictures\flutter_mysqll\build\shared_preferences\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Indra\Pictures\flutter_mysqll\build\shared_preferences\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] C:\Users\Indra\Pictures\flutter_mysqll\build\shared_preferences_web\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] C:\Users\Indra\Pictures\flutter_mysqll\build\shared_preferences_web\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] C:\Users\Indra\Pictures\flutter_mysqll\build\shared_preferences_macos\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] C:\Users\Indra\Pictures\flutter_mysqll\build\shared_preferences_macos\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a7bc031dcc7685abd3c6e24e25d7fa4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a7bc031dcc7685abd3c6e24e25d7fa4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1cf4c7fbec6b2cef897e6b61eba838fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1cf4c7fbec6b2cef897e6b61eba838fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1abd9be1d5164eb8c62b5f038716fdc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1abd9be1d5164eb8c62b5f038716fdc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\74556be9c9f12c37dd526611419906c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\74556be9c9f12c37dd526611419906c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\13ecc0b22753c15b8d3f063fdb888bab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\13ecc0b22753c15b8d3f063fdb888bab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bc2600f9910a1daae61b46c9bc1e7b5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bc2600f9910a1daae61b46c9bc1e7b5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a74df142e9e7320abb5c1cc83b663c90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a74df142e9e7320abb5c1cc83b663c90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7d627c9b884c0ca22ff24ec64514510b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7d627c9b884c0ca22ff24ec64514510b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1676126878530f43685fcf6c00af8606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1676126878530f43685fcf6c00af8606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\970a91c624eb1840d76114e022bb84db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\970a91c624eb1840d76114e022bb84db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cbda929ebad8b38371b6f0f183e37999\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cbda929ebad8b38371b6f0f183e37999\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8a3d5b697d7d20ad21372eeb93e7dfd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8a3d5b697d7d20ad21372eeb93e7dfd6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f6a00ebf9c86e266029beb2801d350ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f6a00ebf9c86e266029beb2801d350ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0610e195567f0f47743466137cfd5e31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0610e195567f0f47743466137cfd5e31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cdac0bb1ae062f43be03d067af30af3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\cdac0bb1ae062f43be03d067af30af3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6eba88270726444a4d0c413196b49902\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6eba88270726444a4d0c413196b49902\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b2a4ef5bc34e56dcb6e25c46ab983062\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b2a4ef5bc34e56dcb6e25c46ab983062\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0fab130a2203ed1b10529de67503a820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0fab130a2203ed1b10529de67503a820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\419063faed253cfba2e24538667d93c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\419063faed253cfba2e24538667d93c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\efb60cc5a7ca5a88360ed78e3c828208\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\efb60cc5a7ca5a88360ed78e3c828208\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\40bce1ec67422d9e30cda1c2f7e86c21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\40bce1ec67422d9e30cda1c2f7e86c21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\285f6192fff9916194513d890e609a92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\285f6192fff9916194513d890e609a92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\428a3ebbad6fdec4e325368f5b60fb14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Indra\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\428a3ebbad6fdec4e325368f5b60fb14\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Indra\Pictures\flutter_mysqll\android\app\src\main\AndroidManifest.xml
